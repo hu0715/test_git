@@ -9,3 +9,4 @@ elif 30>=BMI>25:
     print("偏胖")
 else:
     print("肥胖")
+print("hello,world!")
